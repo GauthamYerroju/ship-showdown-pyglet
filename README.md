@@ -1,7 +1,10 @@
 # Ship Showdown
 
-This is a 2 player game where players try to shoot each other down. Their control on their ship and their timing while firing shots determines victory or defeat.
+This is a simple two player game made using the pyglet game library. Two players control two ships (and two halves of the keyboard) and try to shoot each other. The first one to lose all health loses.
 
+I made this as a start-to-finish game to demonstrate everything I have learned about gamedev using pyglet (including the game loop, resource management, collision detection, game states).
+
+## Notes
 
 1. Python is required to run the game.
 2. To start the game, run "Ship Showdown.py".
